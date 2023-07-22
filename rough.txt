@@ -1,0 +1,14 @@
+OpenBoard Clone 
+Api: canvas Api (for 2d Graphical Drawing)
+
+Realtime Drawing: socket.io Express (server)
+
+
+Features :
+Draw 
+Erase 
+Undo/Redo
+Sticky Notes
+Download Board
+
+Deployment (Hoisting )-> Heroku with Github (Realtime Drawing)
