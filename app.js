@@ -5,7 +5,7 @@ const app = express(); //Initiliazed and server ready
 
 app.use(express.static("public"));
 
-let port = 3000;
+let port = 5000;
 //port
 let server = app.listen(port, () => {
     console.log("Listening to port " + port);
